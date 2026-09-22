@@ -127,8 +127,8 @@ submission.csv
 
 ## Results
 
-- Final rank: **3rd out of 74 teams**
-- Final Kaggle leaderboard score: `0.813466`
+- Final rank: *17 out of 74 teams**
+- Final Kaggle leaderboard score: `0.7813466`
 - Model: dual-stream ResNet-34 ensemble
 - Ensembling: probability-space averaging
 - TTA views: `4`
@@ -144,8 +144,8 @@ submission.csv
 
 ## Team
 
-- Prashant Kumar Dubey
-- Akshay Bagde
+- Akarsh Dubey
+- Atish Kadam
 
 Course: `CS5480: Deep Learning`  
 Institution: Indian Institute of Technology Hyderabad
