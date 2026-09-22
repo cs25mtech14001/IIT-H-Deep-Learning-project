@@ -2,7 +2,7 @@
 
 Dual-stream PyTorch solution for binary synthetic scene classification, using RGB and gradient ResNet-34 streams with pseudo-labeling, BatchNorm adaptation, test-time augmentation, and probability-space ensembling.
 
-**Achievement:** Team 42 secured **3rd place among 74 teams** in the hackathon.
+**Achievement:** Team 42 secured **17 place among 74 teams** in the hackathon.
 
 ## Project Overview
 
